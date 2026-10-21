@@ -1,0 +1,5 @@
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\publish\hello-world.exe
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\publish\hello-world.dll
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\publish\hello-world.deps.json
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\publish\hello-world.runtimeconfig.json
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\publish\hello-world.pdb

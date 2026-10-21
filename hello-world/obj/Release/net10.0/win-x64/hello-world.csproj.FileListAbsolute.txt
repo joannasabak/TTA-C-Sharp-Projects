@@ -1,0 +1,14 @@
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\hello-world.exe
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\hello-world.deps.json
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\hello-world.runtimeconfig.json
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\hello-world.dll
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\bin\Release\net10.0\win-x64\hello-world.pdb
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\obj\Release\net10.0\win-x64\hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\obj\Release\net10.0\win-x64\hello-world.AssemblyInfoInputs.cache
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\obj\Release\net10.0\win-x64\hello-world.AssemblyInfo.cs
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\obj\Release\net10.0\win-x64\hello-world.csproj.CoreCompileInputs.cache
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\obj\Release\net10.0\win-x64\hello-world.dll
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\obj\Release\net10.0\win-x64\refint\hello-world.dll
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\obj\Release\net10.0\win-x64\hello-world.pdb
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\obj\Release\net10.0\win-x64\hello-world.genruntimeconfig.cache
+C:\Users\hackathon\Documents\GitHub\Basic-C#-Programs\hello-world\obj\Release\net10.0\win-x64\ref\hello-world.dll
