@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="AcmeAccounting/AcmeAccounting.csproj" />
   <Project Path="ConsoleProject/ConsoleProject.csproj" />
+  <Project Path="DailyReport/DailyReport.csproj" />
+  <Project Path="DataTypes/DataTypes.csproj" />
+  <Project Path="MathOperations/MathOperations.csproj" />
 </Solution>
