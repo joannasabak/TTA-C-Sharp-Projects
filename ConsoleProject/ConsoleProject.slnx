@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AcmeAccounting/AcmeAccounting.csproj" />
+  <Project Path="ConsoleProject/ConsoleProject.csproj" />
+</Solution>
