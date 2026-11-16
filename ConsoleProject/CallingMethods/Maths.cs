@@ -12,7 +12,7 @@ namespace CallingMethods
             return a * a;
         }
         //method to return the negative of a number
-        public static int negative(int a)
+        public static int Negative(int a)
         {
             return (-a);
         }
