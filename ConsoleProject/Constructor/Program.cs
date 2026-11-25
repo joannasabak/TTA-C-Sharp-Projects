@@ -17,12 +17,14 @@ namespace Construct
 
             Console.WriteLine("Battle in sector {0}!\n", Sector);
 
+            //take turns firing until no more crew on either
             while (deathStar.Crew > 0 && millenium.Crew > 0)
             {
                 deathStar.Fire(millenium, rng);
                 if (millenium.Crew > 0) millenium.Fire(deathStar, rng);
             }
 
+            //whoever still has some crew left wins
             Console.WriteLine($"\n {(deathStar.Crew > 0 ? deathStar.Name : millenium.Name)} wins!");
             Console.ReadLine();
         }

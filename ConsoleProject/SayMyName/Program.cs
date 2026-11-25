@@ -21,7 +21,5 @@ public class Program
         employee.SayName();
 
         Console.ReadLine();
-
-
     }
 }
