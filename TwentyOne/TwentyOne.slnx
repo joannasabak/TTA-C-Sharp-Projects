@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Casino/Casino.csproj" />
+  <Project Path="CasinoUseLibrary/CasinoUseLibrary.csproj" />
+</Solution>
