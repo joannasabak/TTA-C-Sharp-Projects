@@ -5,6 +5,7 @@
 This repository contains the coding projects I've built while completing the C# course at The Tech Academy. 
 It's a record of my progress as I learned to write, debug, and organize C# code.
 
+
 ## What's Inside
 
 | Folder | What it is |
